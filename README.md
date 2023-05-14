@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arkhamknight78
-- 👀 I’m interested in c,c++ and Python programming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in c++ and Python programming
+- 🌱 I’m currently learning APIs and NodeJS
+- 💞️ I’m looking to collaborate on Dev Projects
 - 📫 How to reach me ...
 
 <!---
