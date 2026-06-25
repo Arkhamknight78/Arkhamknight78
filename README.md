@@ -1,20 +1,98 @@
-<h1 align="center">Hi 👋, I'm Vinayak</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vinayak Saxena</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkhamknight78&label=Profile%20views&color=0e75b6&style=flat" alt="arkhamknight78" /> </p>
+<h3 align="center">
+Backend Engineer • Distributed Systems • AI Integrations
+</h3>
 
-- 🌱 I’m currently learning **SpringBoot, NextJS, Typescript, Tailwindcss**
-
-- 💬 Ask me about **react**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vinayak-saxena-a88ba9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak saxena" height="30" width="40" /></a>
-<a href="https://leetcode.com/VinayakS78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayak saxena" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vinsxn02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinsxn02" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems with NestJS, Spring Boot, Go and MongoDB.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/vinayak-saxena-a88ba9229">LinkedIn</a> •
+<a href="https://leetcode.com/VinayakS78/">LeetCode</a> •
+<a href="https://github.com/ArkhamKnight78">GitHub</a>
+</p>
 
-<p><img align="center" src="https://vinayaksaxena.netlify.app/&show_icons=true&locale=en&layout=compact" alt="arkhamknight78" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Backend Engineer with experience building production-scale systems
+- ⚙️ Currently working with **NestJS, Spring Boot, Golang**
+- 🤖 Interested in **AI Infrastructure, MCP Servers, LLM Tooling and Distributed Systems**
+- 📈 Passionate about performance optimization, databases and scalable APIs
+- 🌱 Exploring Kubernetes, Kafka and System Design
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E76F00?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+
+### Backend
+
+- NestJS
+- Spring Boot
+- Node.js
+- Express
+- REST APIs
+- Microservices
+- Webhooks
+- MCP (Model Context Protocol)
+
+### Databases
+
+- MongoDB
+- MySQL
+- Redis
+
+### DevOps & Tools
+
+- Docker
+- Git
+- Postman
+- Linux
+- SonarQube
+
+---
+
+## 💼 Highlights
+
+- 🚀 Built production APIs powering AI Voice Agent workflows
+- 🔧 Contributed 16+ tools to the JustCall MCP Server
+- ⚡ Reduced search latency from **25s → 1.3s**
+- 📦 Built async export pipelines processing **10k+ contacts/request**
+- 🗄️ Migrated legacy PHP services to NestJS microservices
+- 🐹 Built Go-based migration framework for million-row datasets
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArkhamKnight78&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamKnight78&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArkhamKnight78&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Reach Me
+
+📧 your-email@example.com
+
+💼 LinkedIn: https://www.linkedin.com/in/vinayak-saxena-a88ba9229
